@@ -1,0 +1,12 @@
+Usage: internsctl [OPTION]... [INFO}...
+
+internsctl for custom linux command. These commands are like getting system info , create new users and file info.
+
+
+1. cpu getinfo					cpu information of my server 
+2. memory getinfo 					memory information of my server
+3. user create <username>		create a new user on my server
+4. user list 					list all the users
+5. user list --sudo-only				list all the users with sudo permissions
+6. file getinfo <file-name>			information about the file
+7. file getinfo <file-name>			information about the file
